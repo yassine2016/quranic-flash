@@ -1,0 +1,5 @@
+{
+  "name": "QuranicFlash",
+  "description": "Interactive flashcards for the 300 most common Quranic words with deep-dive verb conjugation features using Gemini AI.",
+  "requestFramePermissions": []
+}
